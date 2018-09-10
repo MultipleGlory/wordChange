@@ -16,7 +16,7 @@ function listen () {
 
 function play () {
   const head = document.getElementById('head')
-  const history = run('Only 1 thing.2 do.3 words.4 you.I love you.831143').history
+  const history = run('Too young, too simple. Sometimes, naive.').history
   isRunning = true;
   let i = 0;
   history.forEach((text, i) => {
