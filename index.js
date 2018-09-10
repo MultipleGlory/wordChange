@@ -77,7 +77,7 @@
 
 	function play() {
 	  var head = document.getElementById('head');
-	  var history = (0, _gen2.default)('Only 1 thing.2 do.3 words.4 you.I love you.831143').history;
+	  var history = (0, _gen2.default)('Too young, too simple. Sometimes, naive.').history;
 	  isRunning = true;
 	  var i = 0;
 	  history.forEach(function (text, i) {
